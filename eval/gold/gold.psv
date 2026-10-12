@@ -1,0 +1,281 @@
+uid|value_text|unit|quantity_type|gas|location|time|sector|coverage
+16|545|kt CO2 eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Seoul;South Korea|2021|Waste|sector
+16|74|kt CO2 eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Seoul;South Korea|2000|Waste|sector
+16|501|kt CO2 eq/yr|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Seoul;South Korea|2021|Waste|sector
+16|92|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Seoul;South Korea|2021|Waste|sector
+16|53|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Seoul;South Korea||Waste|sector
+16|389-832|kt CO2 eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Seoul;South Korea|2040|Waste|sector
+38|9.71 x 10^5|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG||2003-2021|;Multi-sector|total
+38|1.85 x 10^5|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG||2003-2021|LULUCF|sector
+38|20|%|share|CO2;CH4;N2O;GHG;carbon;other GHG||2003-2021|LULUCF|sector
+38|25|%|share|CO2;CH4;N2O;GHG;carbon;other GHG||;2000-2021|LULUCF|sector
+38|43|%|share|CO2;CH4;N2O;GHG;carbon;other GHG||2003-2021|LULUCF|sector
+173|-18,015.96|tons CO2-eq|change|CO2;CH4;N2O;GHG;carbon;other GHG|Surabaya;Indonesia|2025|Waste|sector
+173|-22,518.55|tons CO2-eq|change|CO2;CH4;N2O;GHG;carbon;other GHG|Surabaya;Indonesia|2035|Waste|sector
+173|-26,126.86|tons CO2-eq|change|CO2;CH4;N2O;GHG;carbon;other GHG|Surabaya;Indonesia|2050|Waste|sector
+173|-117,401.00|tons CO2-eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Surabaya;Indonesia||Waste|sector
+444|33.85|million tons CO2-eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Turkey|2015|Agriculture|sector
+444|1.13|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Turkey||Agriculture|sector
+462|12.1|Mt CO2 eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Australia|1999-2000|Waste;Industry|sector
+1001|27|Mt|change|CO2;CH4;N2O;GHG;carbon;other GHG|Australia|;2009-2010|Energy|sector
+1001|4.8|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Australia|2009-2010|Energy|sector
+1135|0.18|Gt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2060|Energy|sector
+1397|<0.5|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Jordan|;1990|LULUCF;Multi-sector|sector
+1441|948|million tonnes|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2012-2017|Energy|sector
+1712|10-7,760|t/d|emission|air pollutant|Santa Ana;El Salvador|2006-2020||part
+1712|10-5,870|t/d|emission|air pollutant|San Miguel;El Salvador|2008-2019||part
+2614|168|tons of CO2|change|CO2;CH4;N2O;GHG;carbon;other GHG|New Cairo;Cairo;Egypt||Energy;Building|part
+2700|0.32|tons/capita|change|CO2;CH4;N2O;GHG;carbon;other GHG|Ukraine|2015-2024|;Industry|total;sector
+2743|1,240|kt|emission|air pollutant|China|2017|Industry|sector
+2743|347|kt|emission|air pollutant|China|2017|Industry|sector
+2743|761|kt|emission|air pollutant|China|2017|Industry|sector
+2743|1,648|kt|emission|air pollutant|China|2017|Industry|sector
+2743|1,340|kt|emission|air pollutant|China|2017|Industry|sector
+2743|13.1|kt|emission|air pollutant|China|2017|Industry|sector
+2743|15.8|kt|emission|air pollutant|China|2017|Industry|sector
+2743|77.6-94.0|%|share|air pollutant|China|2017|Industry|sector
+2743|42.1|%|share|air pollutant|central and southern China;China|2017|Industry|sector
+2743|61.7|%|share|air pollutant|central and southern China;China|2017|Industry|sector
+2743|45.5|%|share|air pollutant|central and southern China;China|2017|Industry|sector
+2743|-25.9-22.7|%|uncertainty|air pollutant|China|2017|Industry|sector
+2743|40.1-84.0|%|change|air pollutant|China|2030;2017-2030|Industry|sector
+2743|41.6-84.3|%|change|air pollutant|China|2030;2017-2030|Industry|sector
+2743|44.5-75.2|%|change|air pollutant|China|2030;2017-2030|Industry|sector
+2743|44.5-75.2|%|change|air pollutant|China|2030;2017-2030|Industry|sector
+2743|19.5-46.8|%|change|air pollutant|China|2030;2017-2030|Industry|sector
+2760|19.3|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Iraq||Waste;Energy|sector
+3218|3|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|United States||Transport|sector
+3239|1.85 +/- 1.00|tCO2e|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|Ethiopia|2024|Building;Energy|sector
+3241|4.06|tonnes|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|Hong Kong;China||;Multi-sector|total
+3241|2.04|tonnes|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|Hong Kong;China|2050|;Multi-sector|total
+3288|4.17|tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Mulhouse;France||Energy|part
+3732|30|%|target|CO2;CH4;N2O;GHG;carbon;other GHG|Alberta;Canada|2030;2005-2030|Multi-sector;|total
+3732|136|Mtpa|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Alberta;Canada||Multi-sector;Energy;Industry|sector
+3732|52.4|Mtpa|change|CO2;CH4;N2O;GHG;carbon;other GHG|Alberta;Edmonton;Canada||Multi-sector;Energy;Industry|sector
+3732|38|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Alberta;Canada||Multi-sector;Energy;Industry|sector
+4050|1.7|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Netherlands;The Netherlands||;Multi-sector|part
+4050|1|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Netherlands;The Netherlands||;Multi-sector|part
+4050|0.8-1.5|%/yr|change|CO2;CH4;N2O;GHG;carbon;other GHG|Netherlands;The Netherlands|;2020|;Multi-sector|part;total
+4050|1.3|%/yr|change|CO2;CH4;N2O;GHG;carbon;other GHG|Netherlands;The Netherlands|;2020|;Multi-sector|part;total
+4054|11680.43|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2015|Multi-sector;|total;sector
+4054|12636.00|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2020|Multi-sector;|total;sector
+4156|10-13|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|Multi-sector;;Energy|total
+4156|12-14|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|Multi-sector;;Energy|total
+4156|18-28|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|Multi-sector;;Energy|total
+4156|18,338-24,156|Mt CO2|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2016-2030|Multi-sector;;Energy|total
+4156|<=12|billion tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030;|Multi-sector;;Energy|total
+4282|3463.83|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2012|;Multi-sector|part
+4282|3700.21|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2015|;Multi-sector|part
+4282|3763.29|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2017|;Multi-sector|part
+4282|1.76|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2012-2017|;Multi-sector|part
+4282|313|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Inner Mongolia;China||;Multi-sector|part
+4282|2.5|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Tibet;Xizang;China||;Multi-sector|part
+4282|83.0|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China||Building|sector;part
+4282|10.9|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China||Transport|sector;part
+4473|3405.1799|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2000|Multi-sector;|total
+4473|10,249.4630|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2013|Multi-sector;|total
+4473|60-65|%|target|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|Multi-sector;|total
+4478|41|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2020;2005-2020|Multi-sector;;Energy|total
+4478|0.8||change|air pollutant|China|2030;2005-2030|Multi-sector;;Energy|total
+4478|1.26||change|air pollutant|China|2030;2005-2030|Multi-sector;;Energy|total
+4478|1.0||change|air pollutant|China|2030;2005-2030|Multi-sector;;Energy|total
+4478|2.4|Mt|change|air pollutant|China|2020|Multi-sector;;Energy|total
+4478|2.1|Mt|change|air pollutant|China|2020|Multi-sector;;Energy|total
+4478|03|Mt|change|air pollutant|China|2020|Multi-sector;;Energy|total
+4622|113.1|million tons CO2 eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|1990-2021|Agriculture|sector
+4622|90.3-135.9|million tons CO2 eq|uncertainty|CO2;CH4;N2O;GHG;carbon;other GHG|China|1990-2021|Agriculture|sector
+4622|20.2|%|uncertainty|CO2;CH4;N2O;GHG;carbon;other GHG|China|1990-2021|Agriculture|sector
+4622|0.021|kg N2O-N (kg N)-1|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China||Agriculture|sector
+4622|0.014|kg N2O-N (kg N)-1|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China||Agriculture|sector
+4622|32.3|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|North China;China|;1990-2021|Agriculture|sector
+4622|18.6|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Northeast China;China|;1990-2021|Agriculture|sector
+4622|11.4|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|East China;China|;1990-2021|Agriculture|sector
+4622|5.8|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Central and Southern China;China|;1990-2021|Agriculture|sector
+4622|6.1|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Southwest China;China|;1990-2021|Agriculture|sector
+4622|25.8|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Northwest China;China|;1990-2021|Agriculture|sector
+4622|64.8|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|1990-2021|Agriculture|sector
+4622|35.2|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|1990-2021|Agriculture|sector
+4622|0.77 x 10^-3|kg N2O per kg milk|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|1990|Agriculture|sector
+4622|0.48 x 10^-3|kg N2O per kg milk|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2021|Agriculture|sector
+4913|1196-1253|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2029-2031|Transport|sector
+4913|1513|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2035|Transport|sector
+4956|295|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Amazon;Brazil|2019;|LULUCF|sector
+4956|16.4|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2019|LULUCF|sector
+4957|52.9-66.8|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|2011-2021|Agriculture|sector
+4957|2.1-5.1|Mt CO2-eq|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2060|Agriculture|sector
+5148|45.01-173.60|Mt|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|Transport;Energy|sector
+5148|118.09-607.30|Mt|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2060|Transport;Energy|sector
+5149|376|million tonnes|target|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2020|LULUCF;|part;sector
+5149|38.9|%|target|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2020|;LULUCF|total;part
+5276|22 (11-36)|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|||LULUCF|sector
+5276|11.3|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Belarus||LULUCF|sector
+5276|9.7|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Lithuania||LULUCF|sector
+5276|0.46|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Poland||LULUCF|sector
+5276|0.037|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Kaliningrad;Russia||LULUCF|sector
+5276|2.7|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|||LULUCF|sector
+5276|8.2|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|||LULUCF;Agriculture|sector
+5276|7.0|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|||LULUCF;Agriculture|sector
+5276|2.4|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|||LULUCF|sector
+5276|0.86|Mt CO2eq year-1|emission|CO2;CH4;N2O;GHG;carbon;other GHG|||LULUCF;Industry|sector
+5300|105|Mt CO2e|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Indonesia|2060|Energy|sector
+5300|96|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Indonesia|2060|Energy|sector
+5300|40|Mt CO2e|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Indonesia|2060|Energy|sector
+5320|9001-14980|ton|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Taiwan|1990-2006|Agriculture|sector
+5320|16412-35208|ton|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Taiwan|1990-2006|Agriculture|sector
+5320|31122-55729|ton|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Taiwan|1990-2006|Agriculture|sector
+5320|29493-61471|ton|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Taiwan|1990-2006|Agriculture|sector
+5320|371-728|ton|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Taiwan|1990-2006|Agriculture|sector
+5320|163-365|ton|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Taiwan|1990-2006|Agriculture|sector
+5363|1.9-3.2|billion metric tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2050|Transport|sector
+5363|2.1-3.5|billion tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2050|Transport|sector
+5431|1.81|kg N2O/ha|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2012-2013|Agriculture|sector
+5431|69.09|kg CH4/ha|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2012-2013|Agriculture|sector
+5431|28.34|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2012-2013|Agriculture|sector
+5431|69.41|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2012-2013|Agriculture|sector
+5431|137|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2012-2013|Agriculture|sector
+5431|310|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2012-2013|Agriculture|sector
+5543|2104|tCO2 equivalent|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Germany|2019|Other|part
+5640|42.4|Mt CO2|change|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2020|Energy|sector
+5640|298.2|Mt CO2|change|CO2;CH4;N2O;GHG;carbon;other GHG|Shanghai;China|2020|Energy|sector
+5720|4.53|% per yr|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2000-2018|Building|sector
+5720|4.70|MtCO2 per province per yr|change|CO2;CH4;N2O;GHG;carbon;other GHG|northern China;China||Building|sector
+5720|7.21|MtCO2 per province per yr|change|CO2;CH4;N2O;GHG;carbon;other GHG|central and eastern China;China|;2014|Building|sector
+5720|35.06|MtCO2 per province|change|CO2;CH4;N2O;GHG;carbon;other GHG|northern and southwestern China;China|2001-2018|Building|sector
+5727|198.8|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2001|Agriculture|sector
+5727|246.0|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2019|Agriculture|sector
+5727|262.8|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2015|Agriculture|sector
+5727|33.9|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2001-2019|Agriculture|sector
+5727|26.6|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2001-2019|Agriculture|sector
+5727|26.5|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2001-2019|Agriculture|sector
+5727|13.0|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2001-2019|Agriculture|sector
+5808|89 +/- 28|kt km-2 yr-1|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|St. Petersburg;Russia|2019|Multi-sector;|total
+5808|135 +/- 68|t km-2 yr-1|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|St. Petersburg;Russia|2019|Multi-sector;|total;part
+5808|25|t km-2 yr-1|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|St. Petersburg;Russia|2017|Multi-sector;|total;part
+5808|251 +/- 104|t km-2 yr-1|intensity|air pollutant|St. Petersburg;Russia|2019|Multi-sector;|total;part
+5808|410|t km-2 yr-1|intensity|air pollutant|St. Petersburg;Russia|2017|Multi-sector;|total;part
+5808|66 +/- 28|t km-2 yr-1|intensity|air pollutant|St. Petersburg;Russia|2019|Multi-sector;|total;part
+5808|69|t km-2 yr-1|intensity|air pollutant|St. Petersburg;Russia|2017|Multi-sector;|total;part
+5971|215|million tons CO2-eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Indonesia|2050|Energy|sector
+5993|40-45|%|target|CO2;CH4;N2O;GHG;carbon;other GHG|China|2020|;Multi-sector|total
+5993|66.1|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Minhang District;Shanghai;China|2015|;Multi-sector|total
+6178|492.00|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|1990|Energy|sector
+6178|3049.88|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2014|Energy|sector
+6178|123.97|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;1990-2014|Energy|sector
+6178|-20.01|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;1990-2014|Energy|sector
+6178|17973.86|million tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2015-2030|Energy|sector
+6224|1350|tons/day|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Vulcano Island;Italy|2005||part
+6296|56,237|tonnes CO2e|emission|CO2;CH4;N2O;GHG;carbon;other GHG|England;United Kingdom|2012-2013|Transport|sector
+6296|<0.05|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|England;United Kingdom|2012-2013|Transport|sector
+6504|5|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|||;Multi-sector|part
+6504|8|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|United States||;Multi-sector|part
+6625|>2|Mt CO2-eq|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Lisbon;Portugal|2016|;Energy;Multi-sector|total;sector
+6625|48|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Lisbon;Portugal|2016|;Energy;Multi-sector|part
+6625|-37|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Lisbon;Portugal|2008-2016|;Energy;Multi-sector|total;sector
+6625|<1|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Lisbon;Portugal|2008-2016|LULUCF|sector
+6642|271.04|Mt|target|CO2;CH4;N2O;GHG;carbon;other GHG|Yangtze River Delta;China|2030|;Multi-sector|part
+6642|-208.36|Mt|target|CO2;CH4;N2O;GHG;carbon;other GHG|Yangtze River Delta;China|2030|;Multi-sector|part
+6642|176.86|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Yangtze River Delta;China|2030|;Multi-sector|part
+6693|84|kt|change|CO2;CH4;N2O;GHG;carbon;other GHG|Dublin;Ireland||Transport|sector
+6693|229|kt|change|CO2;CH4;N2O;GHG;carbon;other GHG|Ireland||Transport|sector
+7310|1000|kt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Togo|1990|;Energy|total
+7310|2500|kt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Togo|2020|;Energy|total
+7310|>800|kt|change|CO2;CH4;N2O;GHG;carbon;other GHG|Togo|1990-2020|;Agriculture|total;part
+7449|11.4-24.9|kg CO2eq per GJ|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|2021|Transport;Energy|sector
+7449|4.5-5.4|Mt CO2eq/year|change|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom||Transport;Energy|sector
+7449|3.4-4.0|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|2021|Transport|sector
+7577|99|Mt CO2-eq|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2020|Building|sector
+7642|17.4-19.5|Mt CO2|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Netherlands;The Netherlands|1992|Industry|sector
+7642|14.7|Mt CO2|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Netherlands;The Netherlands|1992|Industry|sector
+7659|78.4|tonnes|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Other;|part
+7659|42.1-112.7|tonnes|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Other;|part
+7659|21|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Transport;Other;|part
+7659|11.5-35.0|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Transport;Other;|part
+7659|18|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Building;Energy;Other;|part
+7659|9.3-32.2|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Building;Energy;Other;|part
+7659|15|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Transport;Other;|part
+7659|2.0-29.0|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Transport;Other;|part
+7659|13|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Transport;Other;|part
+7659|0-46.7|tonnes per trial|emission|CO2;CH4;N2O;GHG;carbon;other GHG|United Kingdom|;2002-2003|Transport;Other;|part
+7798|70|%|target|CO2;CH4;N2O;GHG;carbon;other GHG|Turkey|2030|;Multi-sector|total
+7798|6.00|tons CO2|emission|CO2;CH4;N2O;GHG;carbon;other GHG|cukurova Region;Turkey||Industry|part
+7860|700|Mt CO2|change|CO2;CH4;N2O;GHG;carbon;other GHG|||Energy|total;sector
+7871|254.9|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2020|Agriculture|sector
+7871|74.4|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|2020|Agriculture|sector
+7871|34.3|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030;2020-2030|Agriculture|sector
+7883|450|kgCO2eq/ton cement|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|Indonesia|2050|Industry|sector
+7883|27|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Indonesia|2050;2020-2050|Industry|sector
+7993|9.4976|million tonnes per year|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Saudi Arabia|1954-2020|;Multi-sector|total
+7993|6.1707|million tonnes per year|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Saudi Arabia|2020-2030|;Multi-sector|total
+8029|33.3|Gt|emission|CO2;CH4;N2O;GHG;carbon;other GHG||2019|Energy|total
+8029|2/3|reduction|target|CO2;CH4;N2O;GHG;carbon;other GHG||2050;2019-2050|Energy|total
+8029|2/3|reduction|target|CO2;CH4;N2O;GHG;carbon;other GHG||2070;2019-2070|Energy|total
+8121|123|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2035|Transport|sector
+8121|60-65|%|target|CO2;CH4;N2O;GHG;carbon;other GHG|China|2035|Transport|sector
+8121|35-40|%|target|CO2;CH4;N2O;GHG;carbon;other GHG|China|2040;|Transport|sector
+8210|4.7|Mt CO2/y|change|CO2;CH4;N2O;GHG;carbon;other GHG|Saudi Arabia|2030|Industry|sector
+8270|4500|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Four Provinces of Mountains and Rivers;China|2028|;Energy|total
+8270|654|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Henan;China|2011|;Energy|total
+8270|657|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Hebei;China|2013|;Energy|total
+8270|1273|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Shandong;China|2020|;Energy|total
+8270|2486|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Shanxi;China|2029|;Energy|total
+8301|328|kg CO2 eq per Mg|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2005-2015|Agriculture|sector
+8301|812|kg CO2 eq per Mg|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2005-2015|Agriculture|sector
+8301|434|kg CO2 eq per Mg|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2005-2015|Agriculture|sector
+8301|422|kg CO2 eq per Mg|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2005-2015|Agriculture|sector
+8301|941|kg CO2 eq per Mg|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2005-2015|Agriculture|sector
+8301|549|kg CO2 eq per Mg|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2005-2015|Agriculture|sector
+8368|18.1|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030;2015-2030|Industry|sector
+8368|14.8|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030;2015-2030|Industry|sector
+8368|20|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|Industry|sector
+8373|72.52|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Ningxia;China|2029|Industry;Energy|sector
+8374|1.96|million tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2025|Transport|sector
+8374|1.7|million tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2025|Transport|sector
+8428|12.5|Gt CO2|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2015-2035|Multi-sector;|total
+8428|9.8|t/thousand RMB|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2020|;Multi-sector|total;part
+8428|5.9|t/thousand RMB|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|;Multi-sector|total;part
+8513|186.53|MT|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2019|Transport|sector
+8513|12.52|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2012-2019;2012-2021;2012-2022|Transport|sector
+8513|83.87|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2012-2021|Transport|sector
+8513|96.24|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2012-2021|Transport|sector
+8513|62.08|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2012-2021|Transport|sector
+8513|9.29|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|China|;2012-2021|Transport|sector
+8520|12.9|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|Nepal|2015-2050|Transport;Energy|total;sector
+8520|74.7|million tons CO2e|change|CO2;CH4;N2O;GHG;carbon;other GHG|Nepal|2015-2050|Transport;Energy|total;sector
+8579|>25|kg CO2e per inhaler|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|England;United Kingdom|;2017|Other;|sector
+8579|<10|kg CO2e per inhaler|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|England;United Kingdom|;2017|Other;|sector
+8579|>36|kg CO2e per inhaler|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|England;United Kingdom|;2017|Other;|sector
+8579|<20|kg CO2e per inhaler|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|England;United Kingdom|;2017|Other;|sector
+8579|58|kt CO2e|change|CO2;CH4;N2O;GHG;carbon;other GHG|England;United Kingdom|;2017|Other;|sector
+8592|686|million tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2000-2013|Industry|sector
+8592|798|million tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2014-2019|Industry|sector
+8592|43|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2040;2019-2040|Industry|sector
+8592|>30|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2040;|Industry|sector
+9637|6737.33|Mt|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2025-2060|Energy|sector
+10102|48.87|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Chongqing;China|2000|;Multi-sector|total
+10102|148.05|million tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Chongqing;China|2020|;Multi-sector|total
+10130|12|thousand tons|emission|air pollutant|China|2024-2030|Energy;Multi-sector;|sector
+10130|17|thousand tons|emission|air pollutant|China|2024-2030|Energy;Multi-sector;|sector
+10130|13|thousand tons|emission|air pollutant|China|2024-2030|Energy;Multi-sector;|sector
+10130|71|million tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|China|2024-2030|Energy;Multi-sector;|sector
+10348|201.5|Mt|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Shenzhen;China|2016|Building|sector
+10471|1.56|million t-CO2|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Japan||Building;|sector
+10797|4.2-262.2|%|uncertainty|CO2;CH4;N2O;GHG;carbon;other GHG|Panama||LULUCF|sector
+10809|3,200|tons/day|emission|air pollutant|eastern United States;United States|1986||part;total
+10809|25,300|tons/day|emission|CO2;CH4;N2O;GHG;carbon;other GHG|eastern United States;United States|1986|;Multi-sector|part;total
+10809|~40,000|tons/day|emission|air pollutant|eastern United States;United States|1986||part;total
+10918|21,000,000|metric tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|King County;Washington;United States|1990|;Multi-sector|total;part
+10920|0.829|tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|Tunisia||Building;Energy|part
+10986|7.5|million metric tons of CO2 per year|change|CO2;CH4;N2O;GHG;carbon;other GHG|United States||Energy|sector
+11117|21.5-30|billion tons|emission|CO2;CH4;N2O;GHG;carbon;other GHG|China|2030|Transport;Industry|sector
+11120|510 +/- 120|TgC|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2010|LULUCF|sector
+11120|56.21 +/- 22.5|TgC|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Mato Grosso;Brazil|2010|LULUCF|sector
+11120|29.4 +/- 10|TgC|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Mato Grosso;Brazil|2010|LULUCF|sector
+11120|14.81|Tg C|emission|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2010|LULUCF|sector
+11120|11.75-17.87|TgC|uncertainty|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2010|LULUCF|sector
+11120|77|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Mato Grosso;Brazil|2010|LULUCF|sector
+11120|47-107|%|uncertainty|CO2;CH4;N2O;GHG;carbon;other GHG|Mato Grosso;Brazil|2010|LULUCF|sector
+11120|86|%|share|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2010|LULUCF|sector
+11120|68.2-103|%|uncertainty|CO2;CH4;N2O;GHG;carbon;other GHG|Brazil|2010|LULUCF|sector
+11496|328.836|kg CO2 per ton|intensity|CO2;CH4;N2O;GHG;carbon;other GHG|China||Industry|part
+11514|46|million metric tons|change|CO2;CH4;N2O;GHG;carbon;other GHG|United States|2020|Multi-sector;Transport;Energy|sector
+11514|19|%|change|CO2;CH4;N2O;GHG;carbon;other GHG|United States|2020|Multi-sector;Transport;Energy|sector

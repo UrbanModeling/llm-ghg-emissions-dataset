@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/raw/
+data/external/
+output/
+eval/scores/
+figures/
+.env
