@@ -7,6 +7,8 @@ Step 4: check, normalize and filter the extracted values into the dataset.
   - value -> value_num (mean of a range), value_low, value_high, value_qualifier
   - year -> 'YYYY' / 'YYYY-YYYY' / ''; (country, place) -> country, ISO3, subnational unit or city
   - quantity_type: an emission per unit -> intensity; an emission the measure calls a reduction -> change
+  - gas and Step 3 basis outside their fixed lists: 'GHG', 'GHG (CO2-e)' / 'CO2-e' -> CO2-eq, 'CO2-C' ->
+    carbon, a named air pollutant (CO, NH3) -> air pollutant, anything else -> other (gas) or '' (basis)
   - gas: a unit in mass of carbon -> carbon (C); a unit in CO2-eq -> GHG; Step 3 basis switches CO2 / carbon
   - is_total: Step 3 coverage 'total' and sector 'all sectors' (not consumption-based, embodied or a
     company's), and Step 2's sector all sources or fossil / energy CO2; sector_group from Step 3
@@ -61,6 +63,24 @@ CHANGE_RE = re.compile(r"reduc|mitigat|saving|saved|avoid|abat|decreas|declin|in
 POPULATION = {c["iso3"]: c["population"] for c in geonamescache.GeonamesCache().get_countries().values()
               if c["population"]}
 MONEY_RE = re.compile(r"[$€£¥]|\b(?:usd|eur|euros?|dollars?|yuan|rmb|cny)\b", re.I)
+# fixed lists of Steps 2-3; a model without schema-constrained output (JSON mode only) can answer outside them
+GASES = ["CO2", "CH4", "N2O", "GHG (CO2-eq)", "carbon (C)", "other GHG", "air pollutant", "other"]
+GAS_CO2EQ_RE = re.compile(r"^(?:GHGs?(?:\s*\(?\s*CO2[\s-]*e(?:q|quivalent)?\s*\)?)?|CO2[\s-]*e(?:q|quivalent)?)$", re.I)
+GAS_CARBON_RE = re.compile(r"^(?:CO2-C|C|carbon)$", re.I)
+AIR_POLLUTANT_RE = re.compile(r"^(?:CO|NH3|SO2|SOx|NOx|NO2|NO|PM\s*[\d.]*|VOCs?|NMVOCs?|BC|black carbon|O3)$", re.I)
+BASES = ["CO2", "carbon", "CO2-eq", "not a mass"]
+
+
+def fixed_gas(g: str) -> str:
+    """Step 2's gas within GASES: 'GHG', 'GHG (CO2-e)', 'CO2-eq' -> GHG (CO2-eq); 'CO2-C' -> carbon (C); a named
+    air pollutant (CO, NH3) -> air pollutant; any other answer -> other."""
+    if g in GASES:
+        return g
+    if GAS_CO2EQ_RE.match(g.strip()):
+        return "GHG (CO2-eq)"
+    if GAS_CARBON_RE.match(g.strip()):
+        return "carbon (C)"
+    return "air pollutant" if AIR_POLLUTANT_RE.match(g.strip()) else "other"
 
 
 def strip_unit(value_text: str, unit: str) -> tuple[str, str]:
@@ -122,6 +142,8 @@ def main(run: str):
         ver = pd.read_csv(ver_path, dtype=str, keep_default_na=False).drop_duplicates(["uid", "vid"])
         ver = ver[ver.vid.str.fullmatch(r"\d+")].astype({"uid": int, "vid": int})
         df = df.merge(ver, on=["uid", "vid"], how="left").fillna("")
+        df["basis"] = df.basis.replace({"CO2-e": "CO2-eq"}).where(lambda b: b.isin(BASES + [""]), "")
+    df["gas"] = df.gas.map(fixed_gas)
     text = pd.read_csv(BASE / "output" / "prepared.csv", usecols=["uid", "text"]).set_index("uid").text
     full = df.uid.map(text).fillna("").astype(str)
     n0 = len(df)
